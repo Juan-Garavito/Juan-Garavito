@@ -2,80 +2,76 @@
   <img src="assets/hero.svg" alt="Juan Camilo Garavito — Full Stack Developer & AI Systems" width="100%" />
 </a>
 
-<p align="right">
-  <a href="https://juangaravito.dev"><img src="https://img.shields.io/badge/juangaravito.dev-18191b?style=flat-square&logo=astro&logoColor=9eb1ff" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/juancamilogaravito"><img src="https://img.shields.io/badge/LinkedIn-18191b?style=flat-square&logo=linkedin&logoColor=9eb1ff" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@juangaravito"><img src="https://img.shields.io/badge/YouTube-18191b?style=flat-square&logo=youtube&logoColor=9eb1ff" alt="YouTube" /></a>
-  <a href="mailto:juangaravito.dev@gmail.com"><img src="https://img.shields.io/badge/Email-18191b?style=flat-square&logo=gmail&logoColor=9eb1ff" alt="Email" /></a>
+<p align="center">
+  <a href="https://juangaravito.dev"><img src="https://img.shields.io/badge/juangaravito.dev-18191b?style=for-the-badge&logo=astro&logoColor=9eb1ff" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/juancamilogaravito"><img src="https://img.shields.io/badge/LinkedIn-18191b?style=for-the-badge&logo=linkedin&logoColor=9eb1ff" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@juangaravito"><img src="https://img.shields.io/badge/YouTube-18191b?style=for-the-badge&logo=youtube&logoColor=9eb1ff" alt="YouTube" /></a>
+  <a href="mailto:juangaravito.dev@gmail.com"><img src="https://img.shields.io/badge/Email-18191b?style=for-the-badge&logo=gmail&logoColor=9eb1ff" alt="Email" /></a>
 </p>
 
-I build products end to end: frontend, backend, database and deployment. Angular and React on the front; Laravel, Spring Boot and Node.js on the back. Lately, AI agents with LangGraph that solve real problems in the company — not demos.
+<br/>
+
+## Hi, I'm Juan Camilo 👋
+
+### I build products end to end: frontend, backend, database and deployment.
+
+Angular and React on the front. Laravel, Spring Boot and Node.js on the back. Lately, AI agents with LangGraph and vision LLMs that solve real problems in the company — not demos.
 
 TDD, Scrum and Git Flow are the method. AI is the tool.
 
-<br/>
-
-### `01 / 04` — NOW
-
-| | |
-|:--|:--|
-| **Building** | An agent to manage and recommend recipes, and my first mobile game written in C with Raylib. |
-| **Studying** | MSc in Software Engineering, Universidad de los Andes. |
-| **Experimenting** | Games in C, and different ways of developing with AI in the loop. |
+In my free time I make video games and I play with AI agents (yes, I already played a game against one that I built).
 
 <br/>
 
-### `02 / 04` — WORK · TIC Energy · 2025 — present
+## `01` &nbsp;Now
 
-Four systems in production for the energy sector:
+### 🛠️ Building
+An agent to manage and recommend recipes, and my first mobile game written in C with Raylib.
 
-- **THOT** — Multitenant web tool to report electricity consumption to customers and regulators (XM). Statistical baseline per metering point, threshold-based deviation detection and automated reporting. `Laravel · Angular · Python · Redis · MySQL`
-- **KRATOS** — IoT energy control system on SBM smart boxes. Mobile app plus embedded microcontroller programming. `React Native · Firmware`
-- **Vision LLM Bot** — Telegram bot that reads a meter photo with a vision LLM and generates installation certificates in bulk, with role-based access and per-user memory. `Node.js · LangGraph · PostgreSQL`
-- **Flashing automation** — Python tool that queues and runs concurrent firmware flashes on the production line. `Python · Concurrency`
+### 📚 Studying
+MSc in Software Engineering, Universidad de los Andes.
 
-<br/>
-
-### `03 / 04` — PROJECTS
-
-| Project | What it is | Stack |
-|:--|:--|:--|
-| [Matatena](https://github.com/Juan-Garavito/matatena-cult-of-lamb) | Web version of the Cult of the Lamb minigame: online multiplayer plus a single-player mode against a LangGraph agent with skills, memory and a fallback when the LLM fails. | `TypeScript · LangGraph · Supabase Realtime` |
-| [Penalty Card World Cup](https://github.com/Juan-Garavito/penalty-card-world-cup) | My first video game. Browser penalty shootout with a card system (active, passive, power-ups). Custom engine layer over PixiJS, unit-tested with Vitest, builds for Poki and CrazyGames. | `TypeScript · PixiJS · Vitest` |
-| [RabbitMQ + Spring Boot](https://github.com/Juan-Garavito/RabbitMQ-con-Spring-Boot) | Queues, exchanges, bindings and RPC, explained concept by concept. | `Java · Spring Boot · RabbitMQ` |
-| [Prometheus metrics](https://github.com/Juan-Garavito/app-express-metricsprometheus) | Express app instrumented to expose metrics and be scraped by Prometheus. | `Node.js · Express · Prometheus` |
-| [ForoHub](https://github.com/Juan-Garavito/Foro-Hub---Alura-Latam) | REST API for a tech forum with Spring Security + JWT, and an Angular frontend. | `Java · Spring Boot · Angular` |
+### 🧪 Experimenting
+Games in C, and different ways of developing with AI in the loop.
 
 <br/>
 
-### `04 / 04` — STACK
+## `02` &nbsp;Stack
 
-**Frontend**  
-![Angular](https://img.shields.io/badge/Angular-272a2d?style=flat-square&logo=angular&logoColor=9eb1ff)
-![React](https://img.shields.io/badge/React-272a2d?style=flat-square&logo=react&logoColor=9eb1ff)
-![React Native](https://img.shields.io/badge/React_Native-272a2d?style=flat-square&logo=react&logoColor=9eb1ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-272a2d?style=flat-square&logo=typescript&logoColor=9eb1ff)
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/Angular-272a2d?style=for-the-badge&logo=angular&logoColor=9eb1ff" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-272a2d?style=for-the-badge&logo=react&logoColor=9eb1ff" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-272a2d?style=for-the-badge&logo=react&logoColor=9eb1ff" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-272a2d?style=for-the-badge&logo=typescript&logoColor=9eb1ff" alt="TypeScript" />
+</p>
 
-**Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-272a2d?style=flat-square&logo=laravel&logoColor=9eb1ff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-272a2d?style=flat-square&logo=springboot&logoColor=9eb1ff)
-![Node.js](https://img.shields.io/badge/Node.js-272a2d?style=flat-square&logo=nodedotjs&logoColor=9eb1ff)
-![Python](https://img.shields.io/badge/Python-272a2d?style=flat-square&logo=python&logoColor=9eb1ff)
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Laravel-272a2d?style=for-the-badge&logo=laravel&logoColor=9eb1ff" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Spring_Boot-272a2d?style=for-the-badge&logo=springboot&logoColor=9eb1ff" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-272a2d?style=for-the-badge&logo=nodedotjs&logoColor=9eb1ff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-272a2d?style=for-the-badge&logo=python&logoColor=9eb1ff" alt="Python" />
+</p>
 
-**AI & Agents**  
-![LangGraph](https://img.shields.io/badge/LangGraph-272a2d?style=flat-square&logo=langgraph&logoColor=9eb1ff)
-![Claude](https://img.shields.io/badge/Claude-272a2d?style=flat-square&logo=claude&logoColor=9eb1ff)
-![Vision LLMs](https://img.shields.io/badge/Vision_LLMs-272a2d?style=flat-square&logoColor=9eb1ff)
+### AI & Agents
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-272a2d?style=for-the-badge&logo=langgraph&logoColor=9eb1ff" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Claude-272a2d?style=for-the-badge&logo=claude&logoColor=9eb1ff" alt="Claude" />
+  <img src="https://img.shields.io/badge/Vision_LLMs-272a2d?style=for-the-badge&logoColor=9eb1ff" alt="Vision LLMs" />
+</p>
 
-**Data & Infra**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-272a2d?style=flat-square&logo=postgresql&logoColor=9eb1ff)
-![MySQL](https://img.shields.io/badge/MySQL-272a2d?style=flat-square&logo=mysql&logoColor=9eb1ff)
-![Redis](https://img.shields.io/badge/Redis-272a2d?style=flat-square&logo=redis&logoColor=9eb1ff)
-![Docker](https://img.shields.io/badge/Docker-272a2d?style=flat-square&logo=docker&logoColor=9eb1ff)
-![Linux](https://img.shields.io/badge/Linux-272a2d?style=flat-square&logo=linux&logoColor=9eb1ff)
+### Data & Infra
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-272a2d?style=for-the-badge&logo=postgresql&logoColor=9eb1ff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-272a2d?style=for-the-badge&logo=mysql&logoColor=9eb1ff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-272a2d?style=for-the-badge&logo=redis&logoColor=9eb1ff" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-272a2d?style=for-the-badge&logo=docker&logoColor=9eb1ff" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-272a2d?style=for-the-badge&logo=linux&logoColor=9eb1ff" alt="Linux" />
+</p>
 
 <br/>
 
 <p align="center">
-  <sub><code>BUCARAMANGA, COLOMBIA</code> — <a href="https://juangaravito.dev">juangaravito.dev</a></sub>
+  <code>BUCARAMANGA, COLOMBIA</code> &nbsp;—&nbsp; <a href="https://juangaravito.dev"><b>juangaravito.dev</b></a>
 </p>
