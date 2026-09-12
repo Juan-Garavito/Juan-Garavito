@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Juan Camilo Garavito — Full Stack Developer and AI Systems">
+  <title>Juan Camilo Garavito — Full Stack Developer &amp; AI Systems</title>
+  <style>
+    .sans { font-family: Inter, "Inter Variable", "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: "JetBrains Mono", "Cascadia Code", Consolas, "Courier New", monospace; letter-spacing: 0.14em; }
+    .display { font-weight: 700; font-size: 88px; letter-spacing: -0.04em; fill: #edeef0; }
+    .label { font-size: 14px; fill: #b0b4ba; }
+    .accent { fill: #9eb1ff; }
+  </style>
+
+  <rect width="1200" height="440" fill="#18191b"/>
+
+  <!-- top meta line -->
+  <text class="mono label" x="56" y="64">JUAN CAMILO GARAVITO — BUCARAMANGA, COLOMBIA</text>
+
+  <!-- display -->
+  <text class="sans display" x="52" y="170">FULL STACK</text>
+  <text class="sans display" x="52" y="252">DEVELOPER</text>
+  <text class="sans display" x="52" y="334"><tspan class="accent">&amp;</tspan> AI SYSTEMS<tspan class="accent" dx="14">_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+
+
+  <!-- hairline -->
+  <line x1="56" y1="376" x2="1144" y2="376" stroke="#363a3f" stroke-width="1"/>
+
+  <!-- bottom row -->
+  <text class="mono label" x="56" y="410"><tspan class="accent">01 / 09</tspan><tspan dx="28">AVAILABLE FOR NEW PROJECTS</tspan></text>
+  <text class="mono label" x="1144" y="410" text-anchor="end">juangaravito.dev</text>
+</svg>

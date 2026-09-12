@@ -1,29 +1,90 @@
-<h1 align="center">Hi 👋, I'm Juan Camilo Garavito</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<a href="https://juangaravito.dev">
+  <img src="assets/hero.svg" alt="Juan Camilo Garavito — Full Stack Developer & AI Systems" width="100%" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-garavito&label=Profile%20views&color=0e75b6&style=flat" alt="juan-garavito" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juan-garavito" alt="juan-garavito" /></a> </p>
-
-- 🌱 I’m currently learning **RabbitMQ**
-
-- 👨‍💻 All of my projects are available at [https://juan-garavito.github.io/Portfolio/](https://juan-garavito.github.io/Portfolio/)
-
-- 💬 Ask me about **Spring Boot, Java**
-
-- 📫 How to reach me **juangaravito.dev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juancamilogaravito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juancamilogaravito" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@juangaravito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@juangaravito" height="30" width="40" /></a>
+<p align="right">
+  <a href="https://juangaravito.dev"><img src="https://img.shields.io/badge/juangaravito.dev-18191b?style=flat-square&logo=astro&logoColor=9eb1ff" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/juancamilogaravito"><img src="https://img.shields.io/badge/LinkedIn-18191b?style=flat-square&logo=linkedin&logoColor=9eb1ff" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@juangaravito"><img src="https://img.shields.io/badge/YouTube-18191b?style=flat-square&logo=youtube&logoColor=9eb1ff" alt="YouTube" /></a>
+  <a href="mailto:juangaravito.dev@gmail.com"><img src="https://img.shields.io/badge/Email-18191b?style=flat-square&logo=gmail&logoColor=9eb1ff" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+I build products end to end: frontend, backend, database and deployment. Angular and React on the front; Laravel, Spring Boot and Node.js on the back. Lately, AI agents with LangGraph that solve real problems in the company — not demos.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juan-garavito&show_icons=true&locale=en&layout=compact" alt="juan-garavito" /></p>
+TDD, Scrum and Git Flow are the method. AI is the tool.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juan-garavito&show_icons=true&locale=en" alt="juan-garavito" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juan-garavito&" alt="juan-garavito" /></p>
+### `01 / 05` — NOW
+
+| | |
+|:--|:--|
+| **Building** | An agent to manage and recommend recipes, and my first mobile game written in C with Raylib. |
+| **Studying** | MSc in Software Engineering, Universidad de los Andes. |
+| **Experimenting** | Games in C, and different ways of developing with AI in the loop. |
+
+<br/>
+
+### `02 / 05` — WORK · TIC Energy · 2025 — present
+
+Four systems in production for the energy sector:
+
+- **THOT** — Multitenant web tool to report electricity consumption to customers and regulators (XM). Statistical baseline per metering point, threshold-based deviation detection and automated reporting. `Laravel · Angular · Python · Redis · MySQL`
+- **KRATOS** — IoT energy control system on SBM smart boxes. Mobile app plus embedded microcontroller programming. `React Native · Firmware`
+- **Vision LLM Bot** — Telegram bot that reads a meter photo with a vision LLM and generates installation certificates in bulk, with role-based access and per-user memory. `Node.js · LangGraph · PostgreSQL`
+- **Flashing automation** — Python tool that queues and runs concurrent firmware flashes on the production line. `Python · Concurrency`
+
+<br/>
+
+### `03 / 05` — PROJECTS
+
+| Project | What it is | Stack |
+|:--|:--|:--|
+| [Matatena](https://github.com/Juan-Garavito/matatena-cult-of-lamb) | Web version of the Cult of the Lamb minigame: online multiplayer plus a single-player mode against a LangGraph agent with skills, memory and a fallback when the LLM fails. | `TypeScript · LangGraph · Supabase Realtime` |
+| [Penalty Card World Cup](https://github.com/Juan-Garavito/penalty-card-world-cup) | My first video game. Browser penalty shootout with a card system (active, passive, power-ups). Custom engine layer over PixiJS, unit-tested with Vitest, builds for Poki and CrazyGames. | `TypeScript · PixiJS · Vitest` |
+| [RabbitMQ + Spring Boot](https://github.com/Juan-Garavito/RabbitMQ-con-Spring-Boot) | Queues, exchanges, bindings and RPC, explained concept by concept. | `Java · Spring Boot · RabbitMQ` |
+| [Prometheus metrics](https://github.com/Juan-Garavito/app-express-metricsprometheus) | Express app instrumented to expose metrics and be scraped by Prometheus. | `Node.js · Express · Prometheus` |
+| [ForoHub](https://github.com/Juan-Garavito/Foro-Hub---Alura-Latam) | REST API for a tech forum with Spring Security + JWT, and an Angular frontend. | `Java · Spring Boot · Angular` |
+
+<br/>
+
+### `04 / 05` — STACK
+
+**Frontend**  
+![Angular](https://img.shields.io/badge/Angular-272a2d?style=flat-square&logo=angular&logoColor=9eb1ff)
+![React](https://img.shields.io/badge/React-272a2d?style=flat-square&logo=react&logoColor=9eb1ff)
+![React Native](https://img.shields.io/badge/React_Native-272a2d?style=flat-square&logo=react&logoColor=9eb1ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-272a2d?style=flat-square&logo=typescript&logoColor=9eb1ff)
+
+**Backend**  
+![Laravel](https://img.shields.io/badge/Laravel-272a2d?style=flat-square&logo=laravel&logoColor=9eb1ff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-272a2d?style=flat-square&logo=springboot&logoColor=9eb1ff)
+![Node.js](https://img.shields.io/badge/Node.js-272a2d?style=flat-square&logo=nodedotjs&logoColor=9eb1ff)
+![Python](https://img.shields.io/badge/Python-272a2d?style=flat-square&logo=python&logoColor=9eb1ff)
+
+**AI & Agents**  
+![LangGraph](https://img.shields.io/badge/LangGraph-272a2d?style=flat-square&logo=langgraph&logoColor=9eb1ff)
+![Claude](https://img.shields.io/badge/Claude-272a2d?style=flat-square&logo=claude&logoColor=9eb1ff)
+![Vision LLMs](https://img.shields.io/badge/Vision_LLMs-272a2d?style=flat-square&logoColor=9eb1ff)
+
+**Data & Infra**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-272a2d?style=flat-square&logo=postgresql&logoColor=9eb1ff)
+![MySQL](https://img.shields.io/badge/MySQL-272a2d?style=flat-square&logo=mysql&logoColor=9eb1ff)
+![Redis](https://img.shields.io/badge/Redis-272a2d?style=flat-square&logo=redis&logoColor=9eb1ff)
+![Docker](https://img.shields.io/badge/Docker-272a2d?style=flat-square&logo=docker&logoColor=9eb1ff)
+![Linux](https://img.shields.io/badge/Linux-272a2d?style=flat-square&logo=linux&logoColor=9eb1ff)
+
+<br/>
+
+### `05 / 05` — STATS
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=juan-garavito&show_icons=true&hide_border=true&bg_color=18191b&title_color=9eb1ff&text_color=b0b4ba&icon_color=9eb1ff" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juan-garavito&layout=compact&hide_border=true&bg_color=18191b&title_color=9eb1ff&text_color=b0b4ba" alt="Top languages" height="165" />
+</p>
+
+<br/>
+
+<p align="center">
+  <sub><code>BUCARAMANGA, COLOMBIA</code> — <a href="https://juangaravito.dev">juangaravito.dev</a></sub>
+</p>
