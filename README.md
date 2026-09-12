@@ -15,7 +15,7 @@ TDD, Scrum and Git Flow are the method. AI is the tool.
 
 <br/>
 
-### `01 / 05` — NOW
+### `01 / 04` — NOW
 
 | | |
 |:--|:--|
@@ -25,7 +25,7 @@ TDD, Scrum and Git Flow are the method. AI is the tool.
 
 <br/>
 
-### `02 / 05` — WORK · TIC Energy · 2025 — present
+### `02 / 04` — WORK · TIC Energy · 2025 — present
 
 Four systems in production for the energy sector:
 
@@ -36,7 +36,7 @@ Four systems in production for the energy sector:
 
 <br/>
 
-### `03 / 05` — PROJECTS
+### `03 / 04` — PROJECTS
 
 | Project | What it is | Stack |
 |:--|:--|:--|
@@ -48,7 +48,7 @@ Four systems in production for the energy sector:
 
 <br/>
 
-### `04 / 05` — STACK
+### `04 / 04` — STACK
 
 **Frontend**  
 ![Angular](https://img.shields.io/badge/Angular-272a2d?style=flat-square&logo=angular&logoColor=9eb1ff)
@@ -73,15 +73,6 @@ Four systems in production for the energy sector:
 ![Redis](https://img.shields.io/badge/Redis-272a2d?style=flat-square&logo=redis&logoColor=9eb1ff)
 ![Docker](https://img.shields.io/badge/Docker-272a2d?style=flat-square&logo=docker&logoColor=9eb1ff)
 ![Linux](https://img.shields.io/badge/Linux-272a2d?style=flat-square&logo=linux&logoColor=9eb1ff)
-
-<br/>
-
-### `05 / 05` — STATS
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=juan-garavito&show_icons=true&hide_border=true&bg_color=18191b&title_color=9eb1ff&text_color=b0b4ba&icon_color=9eb1ff" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juan-garavito&layout=compact&hide_border=true&bg_color=18191b&title_color=9eb1ff&text_color=b0b4ba" alt="Top languages" height="165" />
-</p>
 
 <br/>
 
